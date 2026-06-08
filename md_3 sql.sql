@@ -1,5 +1,5 @@
--- Nama : muhammad indra wahyu ardika
--- NIM  : 24241006
+-- Nama : Deny Kurniawan
+-- NIM  : 23241023
 -- Kelas : A 
 -- Modul : 3
 
