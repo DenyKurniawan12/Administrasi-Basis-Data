@@ -1,5 +1,5 @@
--- NAMA : Septia Agus Rianto
--- NIM : 24241022
+-- NAMA : Deny Kurniawan
+-- NIM : 23241023
 -- Kelas : A
 
 -- Menampilkan Database
